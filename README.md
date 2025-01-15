@@ -1,29 +1,31 @@
-📝 ToDo List Client
+# 📝 ToDo List Client
+
 A feature-rich ToDo List application designed for managing daily tasks efficiently. This is the client-side implementation of the ToDo List project, built to provide an intuitive and user-friendly interface for task management.
 
-🚀 Features
-Add Tasks: Quickly add tasks with ease to ensure you never miss anything important.
-Edit Tasks: Update task details on the go to reflect changes or new priorities.
-Delete Tasks: Remove completed or no longer relevant tasks to keep your list clean.
-Mark as Completed: Stay motivated by marking tasks as done and tracking your progress.
-Responsive Design: Fully responsive UI that adapts to any screen size, from desktops to mobile devices.
-Task Prioritization: Assign priority levels (Low, Medium, High) to organize tasks based on urgency and importance.
+---
 
-🛠️ Technologies Used
-Frontend: React.js
-State Management: React Hooks
-Styling: CSS3 for a clean and modern design
+## 🚀 Features
 
-📂 Folder Structure
-ToDoList-client/
-├── public/            # Public assets
-├── src/
-│   ├── components/    # Reusable UI components
-│   ├── pages/         # Main application pages
-│   ├── styles/        # CSS files for styling
-│   ├── App.js         # Application entry point
-│   ├── index.js       # React root file
-└── README.md          # Project documentation
+- **Add Tasks**: Quickly add tasks with ease to ensure you never miss anything important.
+- **Edit Tasks**: Update task details on the go to reflect changes or new priorities.
+- **Delete Tasks**: Remove completed or no longer relevant tasks to keep your list clean.
+- **Mark as Completed**: Stay motivated by marking tasks as done and tracking your progress.
+- **Responsive Design**: Fully responsive UI that adapts to any screen size, from desktops to mobile devices.
+- **Task Prioritization**: Assign priority levels (Low, Medium, High) to organize tasks based on urgency and importance.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend**: React.js
+- **State Management**: React Hooks
+- **Styling**: CSS3 for a clean and modern design
+
+---
+
+## 📂 Folder Structure
+![image](https://github.com/user-attachments/assets/6e976383-ed85-4c63-a1d5-7aac401c345a)
+
 📖 How to Use
 Clone the Repository
 git clone https://github.com/kinjal2250/ToDoList-client.git

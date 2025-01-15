@@ -26,30 +26,26 @@ A feature-rich ToDo List application designed for managing daily tasks efficient
 ## 📂 Folder Structure
 ![image](https://github.com/user-attachments/assets/6e976383-ed85-4c63-a1d5-7aac401c345a)
 
-📖 How to Use
-Clone the Repository
-git clone https://github.com/kinjal2250/ToDoList-client.git
+## 📖 How to Use
+-- **Clone the Repository**: git clone https://github.com/kinjal2250/ToDoList-client.git
 
-Navigate to the Project Directory
-cd ToDoList-client
+--**Navigate to the Project Directory**: cd ToDoList-client
 
-Install Dependencies
-npm install
+--**Install Dependencies**: npm install
 
-Run the Application
-npm start
+--**Run the Application**: npm start
 
-Open your browser and visit http://localhost:3000 to use the application.
-🎨 Screenshots
-Home Page
+--**Open your browser and visit http://localhost:3000 to use the application.**
+## 🎨 Screenshots
+**Home Page**
 ![LandingPage](https://github.com/user-attachments/assets/9a393545-d018-4778-b329-d45b86b2ba3f)
 
-Add Task
+**Add Task**
 ![PriorityTasks](https://github.com/user-attachments/assets/9bdcc8e1-c278-4c0c-ba0d-193ce25ad0ec)
 
-Edit/Delete Task
+**Edit/Delete Task**
 ![DeletingTask](https://github.com/user-attachments/assets/1ed3204d-f4ee-4111-ace9-d6b54582dca9)
 
-SignUp/LogIn
+**SignUp/LogIn**
 ![SignUp](https://github.com/user-attachments/assets/8c8d7554-8fe3-4102-9287-a15a03140c3e)
 

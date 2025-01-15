@@ -4,7 +4,7 @@ import './LandingPage.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/navbar'
 import HeroSection from './components/heroSection';
-function App() {
+function LandingPage() {
   // const [count, setCount] = useState(0)
 
   return (
@@ -15,4 +15,4 @@ function App() {
   )
 }
 
-export default App;
+export default LandingPage;
